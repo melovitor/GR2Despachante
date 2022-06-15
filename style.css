@@ -915,6 +915,13 @@ input {
   top: -19rem;
   display: none;
 }
+.caracteresCarro {
+  color: #ffffff00;
+  text-align: center;
+  position: relative;
+  font-size: 5rem;
+  top: -51.5rem;
+}
 
 .caracteresMotoLetras {
   color: #ffffff00;
